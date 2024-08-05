@@ -1,5 +1,9 @@
 # TikTokBanTool
 
+# D E M O ↓
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=9WRQm2DP0b0)
+
+
 # How Work ?
 TikTok Reporting Tool, which bans accounts in a sec..,  according to currently TikTok algorithms ofc.
 
@@ -47,6 +51,3 @@ pip install rich
 ```python
 pip install pyfiglet 
 ```
-
-# D E M O ↓
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=9WRQm2DP0b0)
