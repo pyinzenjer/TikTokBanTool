@@ -1,10 +1,23 @@
 # TikTokBanTool
 
 # How Work ?
-SOON...
+SOON... hardest tool ever :D
+Steps before executing "FIRSTRUNME.py" file are here:  ↓
 
 ```python
-pip install :D 
+pip install requests 
+```
+
+```python
+pip install time 
+```
+
+```python
+pip install rich 
+```
+
+```python
+pip install pyfiglet 
 ```
 
 # D E M O ↓
