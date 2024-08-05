@@ -2,10 +2,14 @@
 
 # How Work ?
 TikTok Reporting Tool, which bans accounts in a sec..,  according to currently TikTok algorithms ofc.
+
 Script executes first script, which is filling out masked underage form, with inputed credentials.
+
 After successful execution, script asks for your personal session id, which is shown in video,
 for login into your account, and reporting account algorithmicly, in specific time of breaks.
+
 Script succesfully cleans every account you mention, except the badged ones.
+
 
 # Prices ?
 For such kind of tool, i'll charge like an subscription + i'll update all apis and algorithms into the script.
